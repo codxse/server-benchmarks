@@ -5,7 +5,7 @@ Fell free to pull request, this repo is collecting benchmark results. *Ah..!* fo
 ## Available Results
 - [dediserve](https://github.com/codxse/server-benchmarks/tree/master/dediserve)
 - [Linode](https://github.com/codxse/server-benchmarks/tree/master/Linode)
-- DigitalOcean
+- [DigitalOcean](https://github.com/codxse/server-benchmarks/tree/master/DigitalOcean)
 - RamNode
 - Fliphost
 - Ikoula
