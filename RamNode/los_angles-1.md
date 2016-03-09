@@ -38,3 +38,43 @@ I/O (2nd run)	: 405 MB/s
 I/O (3rd run)	: 488 MB/s
 Average I/O		: 501.667 MB/s
 ```
+## Benchmark 1
+### RamNode SSD Cached
+```bash
+System Info
+-----------
+Processor	: Intel(R) Xeon(R) CPU E3-1241 v3 @ 3.50GHz
+CPU Cores	: 1
+Frequency	: 3500.245 MHz
+Memory		: 128 MB
+Swap		: 64 MB
+Uptime		: 61 days, 22:24,
+OS			: Debian GNU/Linux 8
+Arch		: x86_64 (64 Bit)
+Kernel		: 2.6.32-042stab108.8
+Hostname	: paul
+
+
+Speedtest (IPv4 only)
+---------------------
+Your public IPv4 is 168.235.79.187
+
+Location				Provider	Speed
+CDN						Cachefly	107MB/s
+Atlanta, GA, US			Coloat		35.9MB/s 
+Dallas, TX, US			Softlayer	62.2MB/s 
+Seattle, WA, US			Softlayer	73.1MB/s 
+San Jose, CA, US		Softlayer	98.7MB/s 
+Washington, DC, US		Softlayer 	34.7MB/s 
+Tokyo, Japan			Linode		19.1MB/s 
+Singapore 				Softlayer	18.8MB/s 
+Rotterdam, Netherlands	id3.net		11.2MB/s
+Haarlem, Netherlands	Leaseweb	16.6MB/s 
+
+Disk Speed
+----------
+I/O (1st run)	: 719 MB/s
+I/O (2nd run)	: 912 MB/s
+I/O (3rd run)	: 1.1 GB/s
+Average I/O		: 544.033 MB/s
+```
