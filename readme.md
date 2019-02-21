@@ -7,5 +7,3 @@ Fell free to pull request, this repo is collecting benchmark results. *Ah..!* fo
 - [Linode](https://github.com/codxse/server-benchmarks/tree/master/Linode)
 - [DigitalOcean](https://github.com/codxse/server-benchmarks/tree/master/DigitalOcean)
 - [RamNode](https://github.com/codxse/server-benchmarks/tree/master/RamNode)
-- Fliphost
-- Ikoula
